@@ -16,7 +16,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     - [Natural Language Processing](#natural-language-processing)
     - [Documentation](#documentation)
     - [Configuration](#configuration)
-    - [Command-line Tools](#command-line-tools)
+    - [Command-line Tools](#command-line-tools)na
     - [Downloader](#downloader)
     - [Imagery](#imagery)
     - [Audio](#audio)
@@ -238,6 +238,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
+* [pymorphy2](https://github.com/kmike/pymorphy2) - Morphological analyzer / inflection engine for Russian language, based on OpenCorpora project.
 
 ## Documentation
 
